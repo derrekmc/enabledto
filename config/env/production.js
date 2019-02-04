@@ -361,7 +361,7 @@ module.exports = {
   // ssl: undefined,
 
 
-
+  onlyAllowOrigins: ["*"],
   /**************************************************************************
   *                                                                         *
   * Production overrides for any custom settings specific to your app.      *
