@@ -362,7 +362,7 @@ module.exports = {
 
 
   sockets:{
-      onlyAllowOrigins: ["*"]
+      onlyAllowOrigins: ["http://localhost:1337"]
   },
   /**************************************************************************
   *                                                                         *
